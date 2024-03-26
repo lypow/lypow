@@ -1,2 +1,2 @@
 # Lydia Powell
-#000000
+Currently learning the Fundamentals of Software Engineering
